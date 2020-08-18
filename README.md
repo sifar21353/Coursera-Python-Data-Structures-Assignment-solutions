@@ -1,4 +1,4 @@
-# Coursera-Using-Python-To-Access-The-Web-Data-Assignment-solutions
+# Coursera Using Python To Access Web Data assignment solutions
 
 In this repository, I'm going to be putting correct solutions to the assignments given in the Coursera Using Python to access the web data course. 
 
